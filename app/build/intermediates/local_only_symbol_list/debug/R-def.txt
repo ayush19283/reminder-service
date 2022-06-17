@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable alarm
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id act1
+id act2
+id add
+id back
+id ll
+id logo1
+id relativeLayout1
+id save
+id scheduled_time
+id scrollView
+id task_title
+id textv
+id title
+id titleView
+id toolbar
+layout activity_add_work
+layout activity_list_task
+layout activity_main
+layout tem
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Tododo
+xml backup_rules
+xml data_extraction_rules
